@@ -11,10 +11,6 @@ import (
 	//"github.com/Philipp15b/go-steam/steamid"
 )
 
-const USERNAME = "golangbot"
-const PASSWORD = "572676cah1"
-const CODE = "HHWJY"
-
 type Client struct {
 	Username   string
 	Password   string
