@@ -1,0 +1,6 @@
+Packet{EMsg = EMsg_ClientLogOnResponse, Proto = true, Len = 53, TargetJobId = (none), SourceJobId = (none)}
+
+00000000  ef 02 00 80 0e 00 00 00  09 7e e6 f3 18 01 00 10  |.........~......|
+00000010  01 10 91 f4 fc 0b 08 3f  42 09 67 6d 61 69 6c 2e  |.......?B.gmail.|
+00000020  63 6f 6d 50 3f a1 01 7e  e6 f3 18 01 00 10 01 c0  |comP?..~........|
+00000030  01 00 c8 01 00                                    |.....|

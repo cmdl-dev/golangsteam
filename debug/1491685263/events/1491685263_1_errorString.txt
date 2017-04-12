@@ -1,0 +1,1 @@
+(*errors.errorString)(0xc042041830)(Error reading from the connection: read tcp 192.168.1.217:50618->185.25.180.15:27018: wsarecv: An established connection was aborted by the software in your host machine.)

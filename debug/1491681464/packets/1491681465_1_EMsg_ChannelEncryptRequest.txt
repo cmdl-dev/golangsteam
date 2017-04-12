@@ -1,0 +1,5 @@
+Packet{EMsg = EMsg_ChannelEncryptRequest, Proto = false, Len = 44, TargetJobId = (none), SourceJobId = (none)}
+
+00000000  17 05 00 00 ff ff ff ff  ff ff ff ff ff ff ff ff  |................|
+00000010  ff ff ff ff 01 00 00 00  01 00 00 00 b1 f1 74 55  |..............tU|
+00000020  8a 70 32 2c 7f a5 41 1c  9f b8 b9 f8              |.p2,..A.....|
