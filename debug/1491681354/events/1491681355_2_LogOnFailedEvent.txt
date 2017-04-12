@@ -1,3 +1,0 @@
-(*steam.LogOnFailedEvent)(0xc04200d8c0)({
- Result: (steamlang.EResult) EResult_TwoFactorCodeMismatch
-})

@@ -1,5 +1,0 @@
-Packet{EMsg = EMsg_ChannelEncryptRequest, Proto = false, Len = 44, TargetJobId = (none), SourceJobId = (none)}
-
-00000000  17 05 00 00 ff ff ff ff  ff ff ff ff ff ff ff ff  |................|
-00000010  ff ff ff ff 01 00 00 00  01 00 00 00 ea d1 f8 80  |................|
-00000020  78 62 19 3c 8d 24 88 de  19 ee f0 98              |xb.<.$......|

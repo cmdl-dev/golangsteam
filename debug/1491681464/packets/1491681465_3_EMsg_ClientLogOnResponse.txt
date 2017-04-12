@@ -1,5 +1,0 @@
-Packet{EMsg = EMsg_ClientLogOnResponse, Proto = true, Len = 42, TargetJobId = (none), SourceJobId = (none)}
-
-00000000  ef 02 00 80 0e 00 00 00  09 73 8a 7a 04 01 00 10  |.........s.z....|
-00000010  01 10 b1 cc 93 03 08 58  50 58 a1 01 73 8a 7a 04  |.......XPX..s.z.|
-00000020  01 00 10 01 c0 01 00 c8  01 00                    |..........|

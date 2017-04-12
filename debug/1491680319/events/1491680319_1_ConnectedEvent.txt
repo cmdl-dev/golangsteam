@@ -1,2 +1,0 @@
-(*steam.ConnectedEvent)(0x9548f0)({
-})

@@ -1,3 +1,0 @@
-(*steam.LogOnFailedEvent)(0xc04214a558)({
- Result: (steamlang.EResult) EResult_AccountLogonDeniedNeedTwoFactorCode
-})

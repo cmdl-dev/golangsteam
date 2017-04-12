@@ -1,3 +1,0 @@
-(*steam.LogOnFailedEvent)(0xc04200c648)({
- Result: (steamlang.EResult) EResult_InvalidPassword
-})
